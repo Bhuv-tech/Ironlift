@@ -1,2 +1,33 @@
-# Ironlift
-app that predicts anemia status based on hemoglobin levels and provide recommendations
+# 🩸 Ironlift – Anemia status Predictor
+
+🔗 *Live App:* [Click to Open](https://your-streamlit-app-url.streamlit.app)  
+🛠 Built by: [@Bhuv-tech](https://github.com/Bhuv-tech)
+
+---
+
+## 🧬 What It Does
+
+*Ironlift* is a Streamlit-based machine learning web app that predicts a person’s *anemia severity level* based on their clinical parameters.
+
+It provides:
+- Anemia classification: *Mild, **Moderate, or **Severe*
+- Personalized *food recommendations* to improve hemoglobin levels
+
+---
+
+## 📌 Key Features
+
+- 🤖 ML Model trained on clinical data
+- 🩺 Predicts anemia level: Mild, Moderate, or Severe
+- 🍽 Suggests iron-rich food recommendations
+- 💻 Streamlit-powered interactive UI
+- 📊 Clear output with simple explanations
+- 🗂 Upload or manually enter test input
+
+---
+
+## 📂 Project Structure
+Anemia-Status-Predictor/ ├── anemia status predictor.csv     # Dataset
+                         ├── anemia_pred_app.py              # Streamlit app with ML + UI 
+                         ├── requirements.txt                # Python packages 
+                         └── README.md                       # Project documentation

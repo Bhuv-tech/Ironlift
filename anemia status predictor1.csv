@@ -1,0 +1,364 @@
+SI.NO,Age,Sex,RBC,PLT /mm3,HGB,Anemia level,food,supplements
+1,5,Male,4.8,2.1,11.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+2,6,Female,4.4,2.2,11.2,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+3,8,Male,4.1,2,10.5,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+4,10,Female,3.7,1.8,7.9,Severe Anemia,"Diet: Liver, Molasses, Blackstrap Syrup ", Supplements: Iron Injections + Folic Acid + B12 (Doctor Prescribed)
+5,12,Female,4.9,2.4,12.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+6,14,Female,3.8,1.9,7.2,Severe Anemia,"Diet: Liver, Molasses, Blackstrap Syrup ", Supplements: Iron Injections + Folic Acid + B12 (Doctor Prescribed)
+7,28,Female,5.66,128.3,9.6,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+8,41,Female,4.78,419,13.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+9,40,Male,4.65,325,13.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+10,76,Female,4.24,264,11.3,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+11,20,Male,4.14,196,11.5,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+12,24,Female,4.29,233,12.7,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+13,28,Male,4.98,213,12.4,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+14,14,Female,4.97,229,13.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+15,16,Female,4.16,211,12,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+16,62,Female,5.25,151,13.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+18,28,Female,4.81,150,13.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+19,59,Female,3.41,132,10.2,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+20,28,Male,2.26,222,9.3,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+21,60,Female,4.52,589,12,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+22,22,Female,5.17,268,14.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+23,64,Female,4.6,150,13.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+24,78,Female,4.24,264,11.3,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+25,57,Female,3.01,400,9,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+26,51,Female,6.6,154,15.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+27,50,Male,5.46,350,12.7,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+28,77,Male,4.36,438,9.3,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+29,40,Male,4.56,233,10.7,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+30,53,Female,3.81,219,11.7,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+31,55,Male,4.11,186,11.6,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+32,57,Female,3.54,198,10.6,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+33,36,Female,4.83,283,12.7,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+34,25,Male,5.65,125,11.3,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+35,80,Female,3.81,188,10.1,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+36,28,Male,4.98,158,12.4,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+37,30,Male,4.36,324,10.9,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+38,25,Male,3.04,241,9.1,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+39,35,Male,4.12,306,9.9,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+40,56,Female,4.87,221,10.3,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+41,57,Female,3.01,400,9,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+42,40,Male,4.56,233,10.7,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+44,42,Male,3.91,153,11.4,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+45,14,Female,2.83,222,7.8,Severe Anemia,"Diet: Liver, Molasses, Blackstrap Syrup ", Supplements: Iron Injections + Folic Acid + B12 (Doctor Prescribed)
+47,65,Female,4.68,362,14.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+48,63,Female,4.67,162,14.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+49,29,Female,4.13,140,13.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+50,68,Female,4.57,155,12.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+51,55,Male,4.8,182,8.5,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+52,89,Male,2.99,187,6.9,Severe Anemia,"Diet: Liver, Molasses, Blackstrap Syrup ", Supplements: Iron Injections + Folic Acid + B12 (Doctor Prescribed)
+53,66,Male,3.7,140,10.4,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+54,56,Female,4.32,378,11.6,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+55,30,Female,4.33,90,14.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+56,44,Female,5.25,150,15.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+57,42,Female,4.99,159,14.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+58,58,Male,4.18,238,11,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+59,60,Female,4.74,241,13.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+60,40,Male,4.59,150,12,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+61,40,Male,3.49,333,9.2,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+62,20,Male,4.35,359,9.8,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+63,15,Female,5.84,160,14.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+64,13,Female,5.08,206,11,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+65,52,Male,4.68,534,10.2,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+66,30,Male,4.61,259,11.9,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+67,15,Female,4.71,263,10,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+68,13,Male,5.82,153,14.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+69,35,Male,4.3,198,13.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+70,81,Female,3.52,256,9.7,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+71,18,Male,3.48,444,5,Severe Anemia,"Diet: Liver, Molasses, Blackstrap Syrup ", Supplements: Iron Injections + Folic Acid + B12 (Doctor Prescribed)
+72,81,Male,3.52,256,9.7,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+73,14,Female,5.09,170,14.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+74,32,Female,5.01,150,14.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+75,70,Male,5.36,242,14.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+76,13,Female,4.92,150,12.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+77,13,Female,5.24,232,13.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+78,45,Female,4.81,190,13.5,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+79,17,Male,3.84,266,10.2,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+80,44,Male,4.9,192,12.7,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+81,27,Female,4.82,150,14.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+82,24,Male,4.47,198,11.2,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+83,59,Female,4.89,167,12.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+84,26,Male,3.5,350,8.1,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+85,25,Male,3.52,341,12,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+86,65,Female,4.32,139,12.7,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+87,20,Female,4.87,384,11.9,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+88,32,Male,5.64,152,10,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+89,27,Male,4.43,452,10.7,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+90,17,Female,6.58,10,19.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+91,55,Female,6.9,233,13.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+92,35,Female,3.5,252,12,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+93,55,Female,3.39,129,9.2,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+95,43,Female,5.18,366,15,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+96,33,Male,4.24,217,11.9,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+97,34,Female,4.84,306,16,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+98,36,Female,4.66,245,15.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+99,35,Female,4.57,205,14.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+100,27,Female,4.23,95,15.5,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+101,71,Male,2.89,327,8,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+102,35,Female,3.29,150,11.2,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+103,35,Male,4.1,166,11.8,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+104,24,Female,4.21,150,13.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+105,28,Female,4.07,220,10.7,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+106,52,Female,4.58,262,13,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+107,27,Male,4.43,452,10.7,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+108,38,Female,4.21,194,11.3,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+109,57,Female,3.51,74,11.2,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+110,74,Female,5.07,157,14.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+111,32,Female,4.76,140,13.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+112,27,Female,3.21,373,8.6,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+113,70,Female,3.82,211,11.2,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+114,55,Female,3.51,158,9.5,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+115,38,Female,4.32,334,15.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+116,62,Male,4.74,152,10.4,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+117,72,Female,3.59,155,10.9,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+118,58,Female,6.05,185,15.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+119,57,Female,3.37,78,10.6,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+120,40,Female,4.46,32,13.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+121,65,Female,3.9,275,12,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+122,63,Male,4.4,206,10.8,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+123,40,Female,4.16,115,12.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+124,43,Male,3.17,120,10.3,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+125,65,Female,3.92,180,12.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+126,58,Female,5.17,120,13.7,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+127,57,Female,4.5,140,13.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+128,15,Male,3.58,272,10.2,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+129,49,Female,4.79,267,13.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+130,42,Male,4.22,222,11.5,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+131,22,Female,5.19,154,15.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+132,28,Male,3.96,268,7.8,Severe Anemia,"Diet: Liver, Molasses, Blackstrap Syrup ", Supplements: Iron Injections + Folic Acid + B12 (Doctor Prescribed)
+133,52,Female,4.54,214,13.5,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+134,22,Male,2.77,122,10.3,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+135,11,Female,4.86,249,13,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+136,48,Female,4.74,135,12.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+137,35,Male,4.1,165,11.8,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+138,60,Female,4.56,241,11.9,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+139,30,Male,3.87,183,11.1,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+140,40,Male,4.45,188,10.8,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+141,35,Female,4.64,226,13.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+142,60,Male,4.12,214,11.9,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+143,34,Male,3.73,258,8.6,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+144,16,Male,3.47,357,9.9,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+145,35,Male,4.53,348,10.8,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+146,52,Female,4.54,214,13.5,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+147,42,Male,4.22,222,11.5,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+148,48,Female,4.47,135,12.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+149,50,Male,2.88,497,9.1,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+150,38,Male,3.96,317,10.9,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+152,30,Female,4.1,134,11.3,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+153,60,Female,5.39,130,14.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+154,35,Male,4.1,165,11.8,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+155,30,Female,4.95,198,13.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+156,38,Female,3.85,140,13.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+157,28,Female,2.26,222,9.3,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+158,14,Female,4.97,229,13.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+159,24,Female,2.89,207,9.6,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+160,38,Female,3.36,150,13.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+161,80,Male,2.96,127,8.1,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+162,78,Male,3.34,24,10.3,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+163,54,Male,2.55,112,8.1,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+164,26,Female,4.19,52,12.7,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+165,24,Male,3.74,36,11,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+166,57,Female,3.18,84,9.7,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+167,78,Male,2.71,32,8,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+168,13,Female,4.42,47,12.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+169,65,Male,2.53,90,7.7,Severe Anemia,"Diet: Liver, Molasses, Blackstrap Syrup ", Supplements: Iron Injections + Folic Acid + B12 (Doctor Prescribed)
+170,24,Male,3.53,221,10.6,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+171,27,Male,3.41,210,10.2,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+172,23,Male,3.54,215,10.3,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+173,22,Male,3.33,252,9.9,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+174,28,Female,3.44,223,10.2,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+175,47,Female,4.18,162,12.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+176,54,Female,3.63,216,12.5,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+177,65,Female,4.71,148,13.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+178,50,Female,5.5,102,14.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+179,17,Male,3.7,89,11.2,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+180,24,Male,3.48,84,13.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+181,46,Male,4.86,258,11,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+182,35,Female,4.75,157,13.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+183,47,Female,4.73,252,13,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+184,62,Female,4.68,131,14.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+185,40,Male,3.48,246,11.5,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+186,37,Female,4.87,417,11.2,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+187,38,Female,4.74,191,13.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+188,12,Female,4.47,103,11.2,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+189,29,Female,4.18,153,12.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+190,50,Male,4.33,168,12.6,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+191,27,Male,4.86,282,12.5,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+192,62,Female,5.59,197,13.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+193,36,Male,4.55,253,13.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+194,28,Female,4.38,185,13.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+195,60,Male,4.53,311,11.2,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+196,60,Female,4.18,140,11.3,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+197,48,Male,4.52,392,12.6,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+198,80,Female,3.78,151,11,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+199,55,Male,4.65,449,11.9,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+200,25,Male,4.11,176,9.5,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+201,31,Female,4.46,152,15,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+202,72,Female,4.91,266,13.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+203,32,Female,4.4,105,13.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+204,21,Male,4.03,289,10.9,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+205,16,Female,5.04,150,13.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+206,53,Female,4.16,166,12.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+207,38,Male,4.61,195,12.3,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+208,30,Female,5.31,275,13.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+209,60,Female,5.13,499,14.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+210,45,Male,4.33,352,12.5,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+211,65,Female,4.55,153,13.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+212,20,Female,4.62,152,13.7,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+213,32,Male,4.54,154,11.4,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+214,75,Female,5.89,240,15.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+215,29,Female,4.78,170,13.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+216,70,Male,4.15,230,10.9,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+217,66,Female,4.57,257,12.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+218,70,Male,4.76,242,13.5,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+219,16,Female,4.93,157,13.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+220,40,Male,2.97,179,9.4,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+221,38,Male,4.58,193,10.4,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+222,38,Male,4.61,196,12.3,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+223,16,Female,5.04,150,13.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+224,62,Female,2.26,181,8.4,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+225,87,Female,3.78,178,12,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+226,54,Male,4.05,433,12.7,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+227,72,Male,1.91,216,4.2,Severe Anemia,"Diet: Liver, Molasses, Blackstrap Syrup ", Supplements: Iron Injections + Folic Acid + B12 (Doctor Prescribed)
+228,65,Male,3.96,301,11.3,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+229,61,Female,3.94,247,12.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+230,70,Female,6.05,169,12.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+231,52,Female,4.09,242,13.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+232,55,Male,4.14,100,13,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+233,60,Female,3.65,261,12.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+234,33,Male,3.84,202,12.8,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+235,57,Male,4.29,80,11.9,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+236,35,Female,4.8,70,15.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+237,73,Male,1.91,216,4.2,Severe Anemia,"Diet: Liver, Molasses, Blackstrap Syrup ", Supplements: Iron Injections + Folic Acid + B12 (Doctor Prescribed)
+238,57,Female,3.92,191,12.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+239,58,Female,4.33,461,12.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+240,71,Female,2.83,280,9.7,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+241,62,Female,4.3,385,13.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+242,65,Female,4.7,281,12.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+243,65,Female,5.81,212,14.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+244,74,Female,4.13,276,12.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+245,75,Female,5.55,151,14.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+246,57,Female,5.5,373,15.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+247,65,Female,4.76,276,13.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+248,69,Male,5.34,233,13.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+249,48,Female,5.44,303,14.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+250,69,Female,4.34,153,14.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+251,57,Female,5.5,373,15.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+252,75,Female,5.55,151,14.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+253,65,Male,3.17,166,9,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+254,22,Male,3.12,130,8.4,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+255,35,Male,3.94,152,7.8,Severe Anemia,"Diet: Liver, Molasses, Blackstrap Syrup ", Supplements: Iron Injections + Folic Acid + B12 (Doctor Prescribed)
+256,47,Female,3.75,392,9.2,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+257,49,Female,3.24,237,13.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+258,35,Male,5.33,248,8.4,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+259,30,Male,3.41,153,9.5,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+260,55,Male,4.77,238,11.5,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+261,50,Male,4.11,130,11,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+262,72,Female,4.35,158,13.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+263,70,Male,3.7,285,11.6,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+264,27,Male,4.41,298,11,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+265,58,Female,4.92,125,13.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+266,80,Female,4.92,152,14.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+267,50,Female,4.54,239,13,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+268,45,Female,5.39,377,14.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+269,65,Male,3.95,532,10.8,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+270,65,Male,3.34,153,9,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+271,33,Female,5.03,230,12.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+272,65,Female,5.55,188,15.5,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+273,50,Male,5.46,332,12.8,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+274,60,Female,4.65,272,13.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+275,30,Male,4.48,247,12.9,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+276,36,Female,4.71,321,12.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+277,42,Male,3.68,154,10.5,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+278,68,Female,4.34,367,11.8,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+279,65,Male,3.67,298,10.2,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+280,57,Female,3.92,235,11.9,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+281,63,Female,5.53,186,13.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+282,18,Male,4.05,534,8.5,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+283,25,Male,4.86,353,12.9,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+284,65,Male,4.36,167,11.4,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+285,24,Female,5.17,251,14.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+286,62,Female,3.34,105,10.8,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+287,14,Male,4.19,271,12.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+288,46,Female,3.68,183,12.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+289,72,Female,3.51,291,10.5,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+290,66,Female,4.12,172,13,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+291,62,Female,4.14,262,13.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+292,48,Female,5.8,282,15.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+293,30,Female,4.8,200,13.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+294,45,Male,4.1,267,11.1,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+295,58,Female,4.03,150,9.8,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+296,58,Female,4.01,130,12,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+297,47,Male,4.11,253,10.3,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+298,60,Male,4.21,257,11,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+299,73,Male,4.03,336,11.6,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+300,44,Female,5,320,12.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+301,14,Female,4.79,265,12.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+302,50,Male,4.98,244,12.6,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+303,55,Male,4.02,176,9.8,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+304,83,Male,2.94,188,11.8,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+305,34,Male,3.71,249,10.6,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+306,48,Female,5.33,87,16,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+307,42,Male,3.66,434,7.4,Severe Anemia,"Diet: Liver, Molasses, Blackstrap Syrup ", Supplements: Iron Injections + Folic Acid + B12 (Doctor Prescribed)
+308,52,Male,5,313,13.5,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+309,80,Female,3.51,290,11.1,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+310,57,Female,2.25,140,8.1,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+311,62,Male,4.82,159,12.1,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+312,26,Male,3.77,140,10.3,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+313,83,Female,3.94,100,11.2,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+314,35,Female,4.73,341,14.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+315,54,Male,2.96,283,9.3,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+317,55,Male,3.16,213,8.5,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+318,19,Female,5.08,207,14.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+319,45,Female,5.57,195,14.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+320,80,Male,3.43,303,8.3,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+321,49,Female,3.75,201,10.5,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+322,60,Male,4.51,267,13.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+323,52,Male,4.16,167,11.3,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+324,46,Male,4.85,510,11.3,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+325,22,Male,4.41,294,9.9,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+327,56,Male,3.85,60,11.1,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+328,31,Male,4.12,204,11.2,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+329,34,Male,3.82,158,10.8,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+330,21,Male,3.24,208,8.4,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+331,28,Male,3.59,156,11,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+332,32,Male,5.08,356,14.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+333,29,Male,3.96,184,11.3,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+334,14,Male,5.17,660,12,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+335,39,Female,5.03,226,13.8,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+336,55,Male,4.22,35,11.2,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+337,47,Female,4.61,211,13.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+338,27,Male,4.06,191,11.7,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+339,25,Female,5.27,234,15.6,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+340,26,Male,4.36,278,12.9,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+341,38,Female,5.94,160,16.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+342,60,Male,4.08,183,12.6,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+343,74,Male,4.47,90,13.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+344,70,Male,5.11,192,13.7,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+345,24,Male,4.24,217,13.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+346,28,Male,4.33,151,13.9,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+347,23,Male,4.62,150,14.7,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+348,74,Male,4.47,90,13.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+349,41,Male,4.9,210,12.7,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+350,27,Female,4.63,271,13.3,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+351,24,Male,3.5,283,11.1,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+352,68,Female,3.79,390,12.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+353,57,Female,4.62,170,14.7,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+354,26,Female,4.1,265,13.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+355,27,Male,3.17,178,9.7,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+356,65,Male,3.47,180,12.1,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+357,45,Male,4.52,149,14.7,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+358,27,Female,4.53,269,13.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+359,34,Male,3.45,264,12.5,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+360,31,Female,3.54,179,11.9,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+361,46,Female,4.76,244,14.4,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+362,25,Male,4,312,12.9,Mild Anemia,"Diet: Spinach, Tofu, Jaggery, Lentils ", Supplements: Optional Iron Tonic / Multivitamins (Consult Doctor)
+363,24,Female,4.66,266,12.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+364,28,Female,3.42,457,9.8,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+365,22,Female,4.65,200,9.5,Moderate Anemia,"Diet: Red Meat, Beetroot, Pumpkin Seeds, Apricots "," Supplements: Oral Iron Tablets (E.G., Ferrous Sulfate)"
+366,17,Female,4.86,180,13.5,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+367,51,Female,4.85,215,15,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+368,21,Male,4.47,329,13.1,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+369,35,Male,4.75,174,13.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
+370,26,Female,4.95,279,15.2,Normal,"Diet: Leafy Greens, Citrus Fruits, Whole Grains ", Supplements: Not Needed
