@@ -1,6 +1,6 @@
 # 🩸 Ironlift – Anemia status Predictor
 
-🔗 *Live App:* [Click to Open](https://your-streamlit-app-url.streamlit.app)  
+🔗 *Live App:* [Click to Open](https://bhuvtech-ironlift.streamlit.app/)
 🛠 Built by: [@Bhuv-tech](https://github.com/Bhuv-tech)
 
 ---
@@ -12,6 +12,13 @@
 It provides:
 - Anemia classification: *Mild, **Moderate, or **Severe*
 - Personalized *food recommendations* to improve hemoglobin levels
+
+---
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/af6cd6a4-d157-4c5a-b3b3-af057f7deda4)
+
 
 ---
 
