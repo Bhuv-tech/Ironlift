@@ -29,6 +29,7 @@ It provides:
 - 🍽 Suggests iron-rich food recommendations
 - 💻 Streamlit-powered interactive UI
 - 📊 Clear output with simple explanations
+- 📥 download report
 - 🗂 Upload or manually enter test input
 
 ---
