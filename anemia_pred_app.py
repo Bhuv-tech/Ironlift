@@ -47,6 +47,7 @@ Sex: {sex}
 Hemoglobin: {hgb} g/dL
 Anemia Level: {level}
 
+<<<<<<< HEAD:anemia_pred app.py
 Recommendations:
 Food: {food}
 Supplements: {supplements}
@@ -60,3 +61,8 @@ Supplements: {supplements}
         file_name="health_report.txt",
         mime="text/plain"
     )
+=======
+    *Recommendations:*  
+    {tips}
+    """)
+>>>>>>> baa747658e4ed5092580d16960ae04a201b13787:anemia_pred_app.py
